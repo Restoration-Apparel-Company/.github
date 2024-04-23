@@ -1,12 +1,14 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Restoration Apparel Company Github Profile
+Welcome to the official Github profile of Restoration Apparel Company.
+## About Us
+We specialize in dye sublimated uniforms and jerseys for various sports teams and organizations.
+What We Offer
+	•	High-quality dye sublimation services
+	•	Customized uniforms and jerseys for sports teams
+	•	Internal tools and external-facing websites and applications
+## Our Repositories
+Explore our Github repositories to access our internal tools and external-facing websites and applications.
+## Contact Us
+For inquiries or collaborations, please reach out to us at tech@restoathleticusa.com.
+Thank you for visiting our Github profile!
+![03 Resto Athletic Logo](https://github.com/Restoration-Apparel-Company/.github/assets/145146638/3f161ae6-dabe-45fe-9092-9e9c47e16b78)
