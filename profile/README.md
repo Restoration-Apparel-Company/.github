@@ -1,15 +1,28 @@
-# Restoration Apparel Company Github Profile
-Welcome to the official Github profile of Restoration Apparel Company.
-## About Us
-We specialize in dye sublimated uniforms and jerseys for various sports teams and organizations.
-What We Offer
-	•	High-quality dye sublimation services
-	•	Customized uniforms and jerseys for sports teams
-	•	Internal tools and external-facing websites and applications
-## Our Repositories
-Explore our Github repositories to access our internal tools and external-facing websites and applications.
-## Contact Us
-For inquiries or collaborations, please reach out to us at tech@restoathleticusa.com.
-Thank you for visiting our Github profile!
+# Resto Athletic
 
-![03 Resto Athletic Logo](https://github.com/Restoration-Apparel-Company/.github/assets/145146638/3f161ae6-dabe-45fe-9092-9e9c47e16b78)
+Resto Athletic is a leading provider of custom dye-sublimated athletic apparel based in Kansas City, Missouri. We specialize in creating high-quality, personalized jerseys and uniforms for athletes, teams, and sports enthusiasts. Our commitment to fast delivery and affordable pricing makes us the number one choice for custom athletic wear.
+
+## What We Offer
+
+-  **Custom Dye-Sublimated Apparel**: Our advanced dye-sublimation process ensures vibrant, long-lasting designs that meet the unique needs of each customer.
+-  **Quick Turnaround Times**: We pride ourselves on our ability to deliver custom apparel quickly, without compromising on quality.
+-  **Affordable Pricing**: We offer competitive pricing to make custom athletic gear accessible to everyone.
+
+## Our Commitment
+
+-  **World-Class Support**: We provide exceptional customer service to ensure a seamless experience from design to delivery.
+-  **Living Wages**: We are committed to fair labor practices, ensuring that all our employees earn a living wage.
+
+## Learn More
+
+-  [Visit our website](https://www.restoathletic.com/) to explore our products and services.
+-  Connect with us on [LinkedIn](https://www.linkedin.com/company/resto-athletic) for updates and company news.
+
+## Contact Us
+
+For inquiries or more information, please visit our [Contact Page](https://www.restoathletic.com/contact) or reach out to us via email at service@restoathleticusa.com.
+
+---
+
+Resto Athletic is dedicated to empowering athletes with custom apparel that enhances performance and showcases team spirit. Join us in creating your perfect uniform today!
+
