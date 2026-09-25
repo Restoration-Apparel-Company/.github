@@ -22,12 +22,6 @@
  
  
  
-## How I ran it
-
-<!-- What you ran, and what you clicked through or exercised yourself, before opening this PR. A passing test suite is not this. If you could not run it, say so and explain why. -->
-
-
-
 ## Anything reviewers should watch for?
  
 <!-- Edge cases, known limitations, areas you're less confident about, things that might break. Be honest. -->
